@@ -55,7 +55,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="BuildingBlocks\" />
-    <Folder Include="View\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
